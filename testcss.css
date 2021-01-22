@@ -1,0 +1,59 @@
+/*esta es la primera hoja de estilos css*/
+/* Se crean "grupos de características" a las que adjudicamos un nombre: .blue-box, .red-box, .green-box*/
+/* En ellas colocamos los estilos que queremos adjudicar a los elementos div.p.span...*/
+/* luego lo aplicaremos en el documento html con class o id*/
+
+.blue-box{
+    background:blue;
+    padding: 10px;
+    font-size: 20px;
+    border-radius:60px;
+}
+.red-box{
+    text-align: center;
+    background:red ; 
+    padding:5px;      
+    font-size: 30px;   
+    border-radius:40px;
+}
+.green-box{
+    background: green;
+    padding: 10px;
+    font-size:20px;
+    border-radius:60px;
+
+}   
+
+
+/* cuando se aplican los mismos estilos a diferentes elementos se utilizan espacios*/
+/*los estilos afectan a TODOS los p que son hijos de cualquier div
+div p{
+    background:coral;
+    font-size: 30px;
+    border-radius:10px;
+    padding:20px;
+
+}
+*/
+
+ /*solo se aplica a los p que descienden del div
+div > p{
+    background: cornflowerblue;
+    padding:10px;
+    font-size:20;
+    border-radius:5px ;
+
+} 
+*/
+
+/*cuando se aplica > afecta a todos los p y los div 
+div,p{
+    background: cornflowerblue;
+    padding:10px;
+    font-size:20;
+    border-radius:5px ;
+}
+*/
+
+
+
