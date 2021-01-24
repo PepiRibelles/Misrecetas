@@ -1,0 +1,43 @@
+/*Efecto cascada
+Siempre prevalece el último estilo aunque todo lo relacionado
+ con fuentes,textos y párrafos se hereda
+.cuadro-rojo{
+    background: red;
+    padding:10px;
+    font-size:1em;
+    border-radius:5px;
+    font-style: italic;
+}
+.cuadro-verde{
+    background: green;
+    padding:25px;
+    font-size: 30px;
+    border-radius:15px;
+}
+div{
+    display: block;
+    background: hotpink;
+    padding: 5px;
+}
+p{
+    background: khaki;
+    padding:10;
+    font-size: 40px;
+}
+
+/*Selectores
+definiendo span con estilos podemos cambiar una o mas palabras de un texto*/
+p{
+    color: lightsalmon;
+}
+span{
+    color: mediumblue;
+    font-size: 1.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    background: khaki;
+    padding:10;
+    font-size: 40px;
+    border-top-right-radius: 30px;
+}
