@@ -1,0 +1,24 @@
+.padre{
+    display: flex;
+    flex-direction: row;
+    background-color: blue;
+    width: 500px;
+    height:500px;
+    /*justify-content:space-around;
+    justify-content: center;
+    align-items: strech;
+    align-content: center;*/
+
+    justify-content: flex-start;
+}
+.hijo{
+    background-color: yellow;
+    border:2px solid black;
+    /*height:100px;*/
+    width: 100px;
+    height: 100px;
+}
+.hijo3{
+    margin-left: auto;
+
+}
