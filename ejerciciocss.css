@@ -1,0 +1,59 @@
+.padre{
+    display:flex;
+    flex-wrap: nowrap;
+    flex-direction:row;
+    height: 500px;
+    width: 500px;
+    background-color: blue;
+
+    /*Ej.1
+    flex-wrap: nowrap;
+    flex-direction: row;*/
+
+    /*Ej.2..
+    se eliminan hijo4 y hijo5
+    justify-content: space-between;*/
+
+    /*Ej.3 
+    solo con hijo 1
+    justify-content: center;
+    align-items: center;*/
+
+    /*Ej.5
+    con 4 hijos
+    align-items: center;
+    justify-content: center;*/
+
+    /*Ej. 7
+    con 1 hijo
+   justify-content: center;
+   align-items: flex-end;*/
+
+   /*Ej. 8
+   con 6 hijos
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: space-between;*/
+
+    /*Ej.9
+    overflow-x: scroll;*/
+
+
+}
+
+
+
+
+.hijo{
+    border: 2px solid black;
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    /*height: 50%; para Ej.2*/
+    /*flex-shrink:0; para Ej. 9*/
+}
+    /*Ej.4
+    con 3 hijos
+.derecha{
+    margin-left: auto;
+}*/
