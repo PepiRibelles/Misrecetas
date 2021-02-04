@@ -17,3 +17,10 @@
 .fnt-xl {
     font-size: 5em;
 } 
+h2{
+    font-family: 'Gill Sans';
+    text-align: center;
+    padding: .5em;
+    font-size: 1.5em;
+
+}
