@@ -11,3 +11,8 @@ Algunos enlaces interesantes:
 - Iconos: https://thenounproject.com/
 
 - Fuentes: https://www.1001fonts.com/
+
+Cuando lo haces tú parece muy fácil, pero no lo es tanto..jejeje. 
+Progreso muy despacio porque me niego a ver soluciones y cada dos por tres tengo un ionconveniente.
+Aunque a veces cedo a la tentacion y miro tus commits.
+Estoy en ello.
