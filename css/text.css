@@ -7,17 +7,17 @@
 }
 
 .fnt-md {
-    font-size: 1.5px;    
+    font-size: 1.5em;    
 }
 
 .fnt-lg {
-    font-size: 2.5px;
+    font-size: 2.5em;
 }
 
 .fnt-xl {
     font-size: 5em;
 } 
-h2{
+.par{
     display: flex;
     font-family: 'Gill Sans';
     text-align: center;

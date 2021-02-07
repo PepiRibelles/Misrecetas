@@ -1,0 +1,16 @@
+.bg-dark{
+    background-color: #444;
+
+}
+.bg-light{
+    background: #ededed;
+}
+.txt-color{
+    color: darkgreen;
+}
+.rounded{
+    border-radius: 10px;
+}
+:bord{
+    margin-top: 2em;
+}
