@@ -14,3 +14,11 @@
 :bord{
     margin-top: 2em;
 }
+.sep{
+    margin-left: 5px;
+    padding: 20px;
+    margin-top:2em;
+    margin-bottom: 4em;
+    line-height: 1.6em;
+    text-align: left;
+}
