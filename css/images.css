@@ -1,4 +1,6 @@
-main > img{
+.img-m{
+    display: flex;
+    flex-direction: row;
     width:70%;
     border: 3px;
     border-color: rgb(3, 59, 3);

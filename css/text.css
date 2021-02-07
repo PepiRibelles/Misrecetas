@@ -18,9 +18,16 @@
     font-size: 5em;
 } 
 h2{
+    display: flex;
     font-family: 'Gill Sans';
     text-align: center;
     padding: .5em;
     font-size: 1.5em;
 
+}
+.pd3{
+    padding: 3px;
+}
+.pd4{
+    padding: 4px;
 }
