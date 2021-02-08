@@ -4,15 +4,22 @@
 
 }
 a { 
-    
     text-decoration: none;
-    text-decoration: hover;
-    color: inherit;
+    color:inherit;
 }
+a:hover {
+    color:rgb(29, 75, 228);
+}
+
+
+
+
+
+ 
 img {
     max-width: 100%;
     height: auto;
 }
-a:hover {
-    background-color: rgb(231, 199, 184);
+
+    
 }
