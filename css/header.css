@@ -26,8 +26,15 @@
 
 .hdr2{
     text-align:center;
-    font-size: 1.2em;
+    font-size: 1.5em;
     color: rgb(28, 116, 6);
+    margin-bottom: 10px;
+}
+.hdr3{
+    text-align: center;
+    font-size: 1.3em;
+    color: rgb(68, 3, 8);
+    margin-bottom: 18px;
 }
 
 

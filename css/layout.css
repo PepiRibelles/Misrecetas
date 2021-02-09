@@ -44,7 +44,9 @@
     justify-content: center;
 }
 
-
+.bg-b{
+    background-color:rgb(241, 200, 185) ;
+}
 
 
 
@@ -75,4 +77,8 @@
 }
 .mb-4{
     margin:18px 18px 18px 18px;
+}
+.mb-5{
+    margin-top: 1em;
+    margin-bottom: 2em;
 }

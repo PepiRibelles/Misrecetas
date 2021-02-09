@@ -2,8 +2,12 @@
 
 .img-med{
     width: 100%;
-    height: 25vh;
-    object-fit: cover;
+    height: 40vh;
+    border-radius: 35%;
+    border-style: solid;
+
+
+   
 }
 .img-rec{
     width: 70%;
