@@ -18,3 +18,6 @@ Aunque a veces cedo a la tentacion y miro tus commits.
 Estoy en ello.
 
 Sigo trabajando.....
+
+
+10/2 hago commit por Contactar... ¿Por qué clickando sobre cualquier punto de la pag. me lo envia a Recetas.html? no lo entiendo
