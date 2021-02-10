@@ -21,3 +21,5 @@ Sigo trabajando.....
 
 
 10/2 hago commit por Contactar... ¿Por qué clickando sobre cualquier punto de la pag. me lo envia a Recetas.html? no lo entiendo
+
+y ¿porqué me sale tan corta la página?... por otra parte me aclaro a mover el email, nombre y mensaje pero no me aclaro a mover los recuadros
