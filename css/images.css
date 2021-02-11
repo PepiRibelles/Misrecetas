@@ -20,3 +20,6 @@
     border-style: solid;
     border-color: rgb(9, 97, 9);
 }
+.b-r{
+    border-radius: 40%;
+}

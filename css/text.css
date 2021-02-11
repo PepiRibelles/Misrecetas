@@ -32,3 +32,8 @@
 .pd4{
     padding: 4px;
 }
+.tx-l{
+    text-align: left;
+    color: rgb(5, 85, 5);
+    font-size: 1.2em;
+}
