@@ -4,7 +4,7 @@
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 1em;
-    text-align: center;
+    
     
 
     
@@ -96,4 +96,8 @@
 }
 .mar-l1{
     margin-left:25em ;
+}
+
+.mar-l2{
+    margin-inline-start: .5em;
 }

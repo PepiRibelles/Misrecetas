@@ -12,9 +12,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@300&display=swap" rel="stylesheet">
     <title>Mis Recetas</title>
 </head>
+<div class="bg-b">
 
-<body>
-    <div class="bg-b">
+    <body>
+
         <div class="container ">
 
             <header class=" marg-iz block-center-row">
@@ -30,44 +31,48 @@
             </nav>
 
 
-            <main class="mr1">
-                <form class="block-center-row fnt-base">
-                    <div class="col-desk-5 col-tab-8 col-mob-12">
-                        <div class="grid mb-05">
-                            <div style="text-align: right" class="col-3 mb-5">
-                                <label for="name">Nombre:</label>
+            <main>
+                <div class="mr1">
+                    <form class="block-center-row fnt-base">
+                        <div class="col-desk-5 col-tab-8 col-mob-12">
+                            <div class="grid mb-05">
+                                <div style="text-align: right" class="col-3 mb-2">
+                                    <label for="name">Nombre:</label>
+                                </div>
+                                <div class="col-9 ">
+                                    <input id="name" class="input-basic wd" type="text">
+                                </div>
                             </div>
-                            <div class="col-9 ">
-                                <input id="name" class="input-basic wd" type="text">
+                            <div class="grid mb-05">
+                                <div style="text-align: right" class="col-3 mb-2">
+                                    <label for="email">Email:</label>
+                                </div>
+                                <div class="col-9">
+                                    <input id="email" class="input-basic wd" type="text">
+                                </div>
                             </div>
-                        </div>
-                        <div class="grid mb-05">
-                            <div style="text-align: right" class="col-3 mb-5">
-                                <label for="email">Email:</label>
-                            </div>
-                            <div class="col-9">
-                                <input id="email" class="input-basic wd" type="text">
-                            </div>
-                        </div>
-                        <div class="grid mb-05">
-                            <div style="text-align: center" class="col-3 mb-5 wd">
-                                <label for="message">Mensaje:</label>
-                            </div>
-                            <div class="col-9">
-                                <textarea rows="6" id="message" class="input-basic wd"></textarea>
-                            </div>
-                        </div>
-                        <div class="block-center-row">
-                            <button class="btn primary fnt-base rounded">Enviar mensaje</button>
-                        </div>
-                </form>
+                            <div class="grid mb-05">
+                                <div style="text-align:left" class="col-3  mb-2">
+                                    
+                                        <label for="message">Mensaje:</label>
+                                    
+                                </div>
+                                <div class="col-9">
 
+                                    <textarea rows="10" id="message" class="input-basic wd"></textarea>
+                                </div>
+                            </div>
+                            <div class="block-center-row">
+                                <button class="btn primary fnt-base rounded">Enviar mensaje</button>
+                            </div>
+                    </form>
+                </div>
 
             </main>
         </div>
-    </div>
+</div>
 </body>
-<div class="mb-3"></div>
+</div>
 <footer id="footer">
     <div class="foot">
         <p class="fnt-md ">J.R.L. © 2021 </p>
